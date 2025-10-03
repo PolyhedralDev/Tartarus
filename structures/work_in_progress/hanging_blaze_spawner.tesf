@@ -90,7 +90,7 @@ for (num y = -1; y <= height; y = y + 1) {
 
 block(0,3,0, "minecraft:spawner");
 num random = randomInt(3);
-state(0,3,0,"type=BLAZE");    
+state(0,3,0,"type=minecraft:BLAZE");    
   
 
 
